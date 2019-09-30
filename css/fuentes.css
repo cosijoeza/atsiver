@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Amatic SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Amatic SC Regular'), local('AmaticSC-Regular'), url("../webfonts/AmaticSC-Regular.ttf");
+}
+@font-face {
+  font-family: 'Montserrat Medium';
+  src: local('Montserrat Medium'), local('Montserrat-Medium'), url("../webfonts/Montserrat-Medium.ttf");
+}
